@@ -1,0 +1,6 @@
+Question Answers are in the Zip File.
+
+Special Commands : 
+Corona cases/patients : gives the global patient count.
+Corona cases/patients <Country Name> : gives the patient count of that country. Note : Some Country names in the API and the pycountry dont match
+which sometime causes issues, and the API sometimes doesnt give response.  
